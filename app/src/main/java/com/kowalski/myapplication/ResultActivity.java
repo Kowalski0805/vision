@@ -1,4 +1,4 @@
-package com.example.kowalski.myapplication;
+package com.kowalski.myapplication;
 
 import android.content.Intent;
 import android.media.MediaPlayer;
